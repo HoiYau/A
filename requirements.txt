@@ -1,0 +1,20 @@
+# Core dependencies
+streamlit
+pandas
+google-generativeai
+Flask
+
+# Modeling libraries
+scikit-learn
+statsmodels
+surprise
+
+# Enhanced AI and Memory capabilities
+sentence-transformers
+faiss-cpu
+langchain
+numpy
+
+# Additional utilities for enhanced functionality
+python-dateutil
+pytz
